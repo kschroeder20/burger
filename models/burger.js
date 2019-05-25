@@ -1,3 +1,4 @@
+// This file uses the orm to make the changes to the db
 var orm = require("../config/orm");
 
 var burger = {
